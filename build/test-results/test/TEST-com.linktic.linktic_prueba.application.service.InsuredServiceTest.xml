@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.linktic.linktic_prueba.application.service.InsuredServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-04-16T18:58:32" hostname="DESTRUCTOR" time="0.913">
+  <properties/>
+  <testcase name="calculateLiquidation()" classname="com.linktic.linktic_prueba.application.service.InsuredServiceTest" time="0.913"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
